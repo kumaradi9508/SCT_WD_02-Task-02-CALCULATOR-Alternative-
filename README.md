@@ -63,6 +63,7 @@ Ctrl + Z	                Undo last input change
 📂 Project Structure
 
 Numu-Calculator/
+
 │── index.html       # Main HTML file
 │── style.css        # Styles (Light & Dark themes)
 │── script.js        # Calculator logic & functionality
