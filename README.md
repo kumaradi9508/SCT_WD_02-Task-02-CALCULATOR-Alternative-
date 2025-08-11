@@ -1,7 +1,9 @@
 # SCT_WD_02-Task-02-CALCULATOR-Alternative-
 
 🧮 Numu – Cute + Minimal (Advanced Calculator)
+
 SkillCraft Technology – Web Development Internship
+
 Task 02(Alternative): Build an Advanced Calculator with History, Undo, and Dark Mode using HTML, CSS, and JavaScript
 
 📌 Project Overview
@@ -46,7 +48,7 @@ Local storage persistence
 
 🎯 Keyboard Shortcuts
 
-Key / Combo	              Action
+Key / Combo	               Action
 
 0-9, ., +, -, *, /	      Input numbers/operators
 
