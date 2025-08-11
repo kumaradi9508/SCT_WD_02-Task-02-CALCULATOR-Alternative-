@@ -37,6 +37,9 @@ Local storage persistence
 
   .Responsive UI – Works smoothly on both desktop and mobile.
 
+  🌐 Live Demo
+  🎯 Try it here: https://codepen.io/Adi-Satya/pen/qEOPNKE
+
 
 🎯 Keyboard Shortcuts
 Key / Combo	              Action
