@@ -61,6 +61,7 @@ Ctrl + Z	                Undo last input change
 
 
 📂 Project Structure
+
 Numu-Calculator/
 │── index.html       # Main HTML file
 │── style.css        # Styles (Light & Dark themes)
@@ -68,6 +69,7 @@ Numu-Calculator/
 └── README.md        # Documentation
 
 💡 Future Enhancements
+
    -Add scientific functions (sin, cos, tan, sqrt, etc.)
 
    -Multiple theme options
